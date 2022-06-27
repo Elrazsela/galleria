@@ -1,2 +1,2 @@
 # galleria
-HackerU Project
+HackerU JS Project
